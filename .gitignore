@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+Impl/.metadata/
+Impl/Servers/
+Impl/CrudFuncionario/.gradle
+Impl/CrudFuncionario/bin
