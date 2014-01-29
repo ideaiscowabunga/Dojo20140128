@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="src/system-test/java"/>
+	<classpathentry kind="src" path="src/system-test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-context/3.1.2.RELEASE/jar/6787712741427c1014aaca503d24e3b3f05f396/spring-context-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-context/3.1.2.RELEASE/source/f50389498695dc35fb9bf7134d4756a61d036eb7/spring-context-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-core/3.1.2.RELEASE/jar/dd4295f0567deb2cc629dd647d2f055268c2fd3e/spring-core-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-core/3.1.2.RELEASE/source/87d5a67dcd08abd35c8a31e639f85929ad8fc722/spring-core-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-web/3.1.2.RELEASE/jar/34a73557b66ea3c68892c042f2c9ba7e8bff8eac/spring-web-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-web/3.1.2.RELEASE/source/7d4d1be9478d7a011bbe4d08ecf1b2053e0d4c9d/spring-web-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-webmvc/3.1.2.RELEASE/jar/e02f3e5aa91c8caa37b2e9b780229d27e76c0f2e/spring-webmvc-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-webmvc/3.1.2.RELEASE/source/bc9c347358c5d59998b27e8a13c75106c3d0696/spring-webmvc-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.fasterxml.jackson.core/jackson-databind/2.1.1/jar/38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2/jackson-databind-2.1.1.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.fasterxml.jackson.core/jackson-databind/2.1.1/source/405baac235b7e74509bac5001702bc090e2bb9ca/jackson-databind-2.1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-jdbc/3.1.2.RELEASE/jar/777639dc0dabe1ec518c9f67571b84fa74c9a83d/spring-jdbc-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-jdbc/3.1.2.RELEASE/source/4a0bc9e0bf1634482e58c91db793a6e1121e8365/spring-jdbc-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-orm/3.1.2.RELEASE/jar/164975b38b596af2d353b637dbbe39b4167e2c16/spring-orm-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-orm/3.1.2.RELEASE/source/462cec68e2d4b2bf99f9264f3403a22e0898f421/spring-orm-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/log4j/log4j/1.2.17/bundle/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/log4j/log4j/1.2.17/source/677abe279b68c5e7490d6d50c6951376238d7d3e/log4j-1.2.17-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/junit/junit/4.10/jar/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/junit/junit/4.10/source/6c98d6766e72d5575f96c9479d1c1d3b865c6e25/junit-4.10-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.mockito/mockito-all/1.9.0/jar/d13863fbd7c0bc32845c9d8a261d03b61bf28194/mockito-all-1.9.0.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.mockito/mockito-all/1.9.0/source/3cdbb5d11e1cf6c98b4d3697d9eeaa71ad59ef47/mockito-all-1.9.0-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.h2database/h2/1.3.170/jar/7200aeef0a3c6889d049f4d8f6f26266721ccc48/h2-1.3.170.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.h2database/h2/1.3.170/source/a8fecbe1d6903b28ae5dc7ced26de327ba5bb7fb/h2-1.3.170-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/commons-dbcp/commons-dbcp/1.2.2/jar/4fd4c6110e9bca3a655b717eb2e5920febb8403d/commons-dbcp-1.2.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-test/3.1.2.RELEASE/jar/55cbf497e2b1e499e9b02430fd5ee94aac60a143/spring-test-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-test/3.1.2.RELEASE/source/1db97dfcc532036d3896dad12a0f1e8bea7b385f/spring-test-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/commons-logging/commons-logging/1.1.1/jar/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/commons-logging/commons-logging/1.1.1/source/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-asm/3.1.2.RELEASE/jar/d45753d8048317099395ce7f2bbcdb1776a2e26c/spring-asm-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-asm/3.1.2.RELEASE/source/9a4962ca96a6a090ee6864bcf8db8bf7880e1302/spring-asm-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-beans/3.1.2.RELEASE/jar/38ff7985f572a87d72023eedce3d720ce1ba4083/spring-beans-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-beans/3.1.2.RELEASE/source/35256eadac413df0d1e503182a0f18da39d6d026/spring-beans-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/aopalliance/aopalliance/1.0/source/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-aop/3.1.2.RELEASE/jar/a68c5ee96d735ac68c00e226e768ef70ae1d5c57/spring-aop-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-aop/3.1.2.RELEASE/source/ebdc69d0cc4de7fbce0c0e9197c9a9f210196556/spring-aop-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-expression/3.1.2.RELEASE/jar/c6d4aca58f993bda3cce2bc0536bd168cc9d7ed5/spring-expression-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-expression/3.1.2.RELEASE/source/e66dba8f9c95213d2aec09c92f7595b3341f631d/spring-expression-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-context-support/3.1.2.RELEASE/jar/7873812d2c36b7478bf885a82834d6740de83c9d/spring-context-support-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-context-support/3.1.2.RELEASE/source/623623d02091478fb11082fa445c4a587ec9e12e/spring-context-support-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.fasterxml.jackson.core/jackson-annotations/2.1.1/jar/b01cc83e745fc4425a3968fafbf8e5b8254a6dd/jackson-annotations-2.1.1.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.fasterxml.jackson.core/jackson-annotations/2.1.1/source/ff3e12dcdab94f689002e26238b1cb05b3c785bd/jackson-annotations-2.1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.fasterxml.jackson.core/jackson-core/2.1.1/jar/82ad1c5f92f6dcc6291f5c46ebacb975eaa844de/jackson-core-2.1.1.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/com.fasterxml.jackson.core/jackson-core/2.1.1/source/7455a1d51e0bcd266a4930232ec7730cde1114d5/jackson-core-2.1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-tx/3.1.2.RELEASE/jar/f9efe9e07e73ab593de0353e01b8bcbaafbfd3c1/spring-tx-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-tx/3.1.2.RELEASE/source/11b2b3b9f346ca3be0dcf79d59a3e23fdf99c172/spring-tx-3.1.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.hamcrest/hamcrest-core/1.1/jar/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.hamcrest/hamcrest-core/1.1/source/2ccf1154d1a8936042a8a742dc3e611d02ac7213/hamcrest-core-1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/commons-pool/commons-pool/1.3/jar/3231230c1d7631b66a74d1c4653cfd65a6f9ea0/commons-pool-1.3.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/commons-pool/commons-pool/1.3/source/97f4c4b0144792c8173199cec14c3948c91aff81/commons-pool-1.3-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-6-sun-1.6.0.38">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
