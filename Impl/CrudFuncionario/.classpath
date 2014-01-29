@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="src" path="src/test/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
-	<classpathentry kind="src" path="src/test/resources"/>
-	<classpathentry kind="src" path="src/system-test/java"/>
-	<classpathentry kind="src" path="src/system-test/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry exported="true" kind="lib" path="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-context/3.1.2.RELEASE/jar/6787712741427c1014aaca503d24e3b3f05f396/spring-context-3.1.2.RELEASE.jar" sourcepath="/home/IDEAIS/juliano.fernandes/.gradle/caches/artifacts-14/filestore/org.springframework/spring-context/3.1.2.RELEASE/source/f50389498695dc35fb9bf7134d4756a61d036eb7/spring-context-3.1.2.RELEASE-sources.jar">
