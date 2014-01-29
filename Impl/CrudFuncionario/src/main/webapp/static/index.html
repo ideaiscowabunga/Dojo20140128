@@ -1,0 +1,49 @@
+<html ng-app>
+	<head>
+		<title>Cowabunga - Dojo 28.01.2014</title>
+		<script src="http://code.angularjs.org/1.0.1/angular-1.0.1.min.js"></script>
+		<script src="js/controller.js"></script>
+	</head>
+	<body ng-controller="mainController">
+		<h1>Funcion&aacute;rios</h1>
+		<hr>
+		<table>
+			<thead>
+				<tr>
+					<th>Primeiro Nome</th>
+					<th>&Uacute;ltimo Nome</th>
+					<th>Sal&aacute;rio</th>
+					<th>Cargo</th>
+					<th>Excluir</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr ng-repeat="funcionario in funcionarios">
+					<td>{{ funcionario.firstName }}</td>
+					<td>{{ funcionario.lastName }}</td>
+					<td>{{ funcionario.salary }}</td>
+					<td>{{ funcionario.role }}</td>
+					<td><a href="#" ng-click="excluir(funcionario)">Excluir</a></td>
+				</tr>
+			</tbody>
+		</table>
+
+		<hr>
+
+		<form>
+			<label>Primeiro nome</label>
+			<input type="text" ng-model="funcionario.firstName" name="primeiroNome">
+			<br />
+			<label>&Uacute;ltimo nome</label>
+			<input type="text" ng-model="funcionario.lastName" name="ultimoNome">
+			<br />
+			<label>Sal&aacute;rio</label>
+			<input type="text" ng-model="funcionario.salary" name="salario">
+			<br />
+			<label>Cargo</label>
+			<input type="text" ng-model="funcionario.role" name="cargo">
+			<br />
+			<input type="submit" ng-click="adicionar(funcionario)" name="foi">
+		</form>
+	</body>
+</html>
